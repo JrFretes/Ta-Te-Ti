@@ -1,1 +1,1 @@
-# Ta-Te-Ti
+Clasico juego de Ta-Te-ti
